@@ -1,5 +1,5 @@
 // OpenWeatherMap API key (you can move this to a more secure place later)
-const apiKey = '3782fdd2328a9b488ce3932461b4692a';
+const apiKey = "enter your api key"
 const form = document.getElementById('search-form');
 const inputCity = document.getElementById('cityName');
 const container = document.getElementById('container');
